@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 class Program
 {
@@ -6,10 +6,11 @@ class Program
     {
         string nome = "Fernando";
         int idade = 28;
-        double altura = 1.78;
+        double altura = 1.65;
 
         Console.WriteLine($"Nome: {nome}");
         Console.WriteLine($"Idade: {idade} anos");
         Console.WriteLine($"Altura: {altura}m");
     }
-}
+}*/
+

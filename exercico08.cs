@@ -1,5 +1,5 @@
-﻿namespace tp01_csharp;
-/*
+﻿/*namespace tp01_csharp;
+
 class Program
 {
    static void Main(string[] args)
@@ -10,3 +10,4 @@ class Program
         Console.WriteLine($"😃 Hello {nome}, Welcome to C# language!");
     }
 }*/
+
