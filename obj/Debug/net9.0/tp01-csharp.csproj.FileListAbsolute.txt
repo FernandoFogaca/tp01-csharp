@@ -12,3 +12,4 @@
 /Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.pdb
 /Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.genruntimeconfig.cache
 /Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/ref/tp01-csharp.dll
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.sourcelink.json
