@@ -1,0 +1,14 @@
+/Users/fernandofogaca/RiderProjects/tp01-csharp /bin/Debug/net9.0/tp01-csharp
+/Users/fernandofogaca/RiderProjects/tp01-csharp /bin/Debug/net9.0/tp01-csharp.deps.json
+/Users/fernandofogaca/RiderProjects/tp01-csharp /bin/Debug/net9.0/tp01-csharp.runtimeconfig.json
+/Users/fernandofogaca/RiderProjects/tp01-csharp /bin/Debug/net9.0/tp01-csharp.dll
+/Users/fernandofogaca/RiderProjects/tp01-csharp /bin/Debug/net9.0/tp01-csharp.pdb
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.AssemblyInfoInputs.cache
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.AssemblyInfo.cs
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.csproj.CoreCompileInputs.cache
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.dll
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/refint/tp01-csharp.dll
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.pdb
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/tp01-csharp.genruntimeconfig.cache
+/Users/fernandofogaca/RiderProjects/tp01-csharp /obj/Debug/net9.0/ref/tp01-csharp.dll
